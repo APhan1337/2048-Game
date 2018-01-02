@@ -11,6 +11,7 @@ public class Tile extends JComponent
 	
 	private int value;
 	
+	//
 	public Tile(int value)
 	{
 		this.value = value;
